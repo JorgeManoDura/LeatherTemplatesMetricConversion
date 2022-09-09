@@ -1,4 +1,4 @@
-# Leather Templates - Metric Conversion
+# Leather Templates - Metric Conversion Project
 ## What can you make with these templates?
 
 These are some build logs made by [VanillaLeatherCraft](https://github.com/vanillaleathercraft/leather) showing how to use the templates to make some gear:
